@@ -1,6 +1,6 @@
 # Simulación de la línea de recepción IoT (Python + PostgreSQL)
 
-El documento ".zip" contiene la base de datos `papeleria_db`, así como la simulación del proceso realizada en python.
+El documento ".zip" contiene la base de datos `papeleria_db`, así como la simulación del proceso realizada en python. al correr el programa "main.py" deberá mantenerse la carpeta integra con todos sus documentos dentro sin modificar o mover ni un archivo con tal procurar un correcto funcionamiento.
 
 ## Qué se necesita
 
